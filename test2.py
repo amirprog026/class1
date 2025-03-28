@@ -13,7 +13,7 @@ def find_primes(number:int):
         if is_prime(item):
             print(item,end=" ")
 
-        
+print("Www")        
 
 while 1:
     num=input("Please enter a number ")
